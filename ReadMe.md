@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-APEX THREADS is a modern, responsive single-page application (SPA) built with React.js, designed as an e-commerce platform for F1-inspired streetwear. This application allows users to browse products by category, search for specific items, view product details, manage a shopping cart, maintain a wishlist, and handle user authentication (login/signup) and profile management.
+F1 Streetwear E-commerce is a modern, responsive single-page application (SPA) built with React.js, designed as an e-commerce platform for F1-inspired streetwear. This application allows users to browse products by category, search for specific items, view product details, manage a shopping cart, maintain a wishlist, and handle user authentication (login/signup) and profile management.
 
 The application focuses on a sleek user experience with dynamic content loading, client-side routing, and interactive UI elements.
 
